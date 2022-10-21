@@ -1,3 +1,5 @@
+Скачайте проект -> Установите в папку с проектом node_modules -> Зайдите в папку с проектом через терминал -> Командой npm startзапустите проект
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
