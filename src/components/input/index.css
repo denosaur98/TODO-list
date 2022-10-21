@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Comfortaa_bold';
+    src: url('../input/Comfortaa_bold.ttf');
+}
+.input {
+    font-family: 'Comfortaa_bold';
+    font-weight: bold;
+    width: 400px;
+    font-size: 17px;
+    line-height: 17px;
+    border: 2px solid black;
+    border-radius: 4px;
+    background: none;
+    box-shadow: 1px 2px 10px 1px black;
+}
